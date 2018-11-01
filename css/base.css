@@ -1,0 +1,19 @@
+/*
+* @Author: gf880623
+* @Date:   2018-08-13 09:07:58
+* @Last Modified by:   gf880623
+* @Last Modified time: 2018-08-13 09:13:21
+*/
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	list-style: none;
+	text-decoration: none;
+}
+a{
+	text-decoration: none;
+}
+i{
+	font-style: normal;
+}
